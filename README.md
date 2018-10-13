@@ -1,4 +1,4 @@
-# Airbnb Data Mining
+# Airbnb Data Wrangling
 
 ### Motivation
 
